@@ -1,5 +1,5 @@
 # This is a Databricks asset bundle definition for bakehouse_analytics.
-#   See https://docs.databricks.com/dev-tools/bundles/index.html for documentation.
+# See https://docs.databricks.com/dev-tools/bundles/index.html for documentation.
 
 bundle:
   name: bakehouse_analytics
